@@ -21,5 +21,4 @@ public class Dog extends Animal{
         } else
         System.out.println(name + " проплыл(а) " + distance + " метров");
     }
-
 }

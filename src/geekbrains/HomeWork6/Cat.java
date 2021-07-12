@@ -19,5 +19,4 @@ public class Cat extends Animal{
     void swim(int distance){
         System.out.println("Коты/кошки не умеют плавать!!!");
     }
-
 }

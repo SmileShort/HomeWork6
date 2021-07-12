@@ -17,6 +17,5 @@ public class Main {
         dog.swim(5);
         cat1.run(150);
         cat.swim(2);
-
     }
 }
