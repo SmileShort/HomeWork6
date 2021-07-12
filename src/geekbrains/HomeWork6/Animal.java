@@ -18,4 +18,5 @@ public class Animal {
      void swim (int distance){
         System.out.println(name + " проплыл(а) " + distance + " метров");
     }
+
 }
